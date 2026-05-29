@@ -1,0 +1,52 @@
+# 🎮 Divina Commedia: Purgatorio
+## Un'Epica Action-Adventure in Unreal Engine
+
+Benvenuto in **Divina Commedia: Purgatorio** - un videogioco action-adventure ispirato al capolavoro letterario di Dante Alighieri, realizzato in **Unreal Engine** sullo stile di God of War.
+
+## 🎬 Visione del Progetto
+
+Questo gioco è un'esperienza immersiva che reinterpreta il viaggio di Dante attraverso le montagne del Purgatorio, trasformando la classica narrazione letteraria in un'avventura epica ricca di combattimenti intensi, puzzle ambientali e una trama emotiva profonda.
+
+### Influenze Stilistiche
+- **God of War**: Combattimento dinamico, camera over-the-shoulder, boss epici e una narrazione intima tra protagonista e compagno di viaggio
+- **Dante Alighieri**: Struttura narrativa basata sui 7 gironi del Purgatorio, tematiche di redenzione e trasformazione spirituale
+- **Mitologia Dantesca**: Ambiente cosmico, creature allegoriche, e una rappresentazione unica dell'aldilà
+
+## 📖 Trama
+
+Il giocatore interpreta Dante in un viaggio attraverso i sette gironi del Purgatorio, dove deve affrontare:
+- Creature mitologiche e nemici allegorici
+- Giganti e demon boss ispirati alla Divina Commedia
+- Prove di redenzione e crescita spirituale
+- Incontri con anime tormentate dal loro passato
+
+Accompagnato da **Virgilio** come mentore e guida spirituale, dovrai affrontare le tue colpe passate e ascendere verso la redenzione.
+
+## 🎮 Gameplay
+
+### Meccaniche Principali
+- **Combattimento Dinamico**: Sistema di combattimento fast-paced con combo, parry e magie spirituali
+- **Armi Epiche**: Arsenal ispirato alla mitologia dantesca (spada, ascia magica, etc.)
+- **Poteri Sovrumani**: Abilità magiche legate alla redenzione e alla trasformazione spirituale
+- **Puzzle Ambientali**: Enigmi basati sulla letteratura dantesca e sulla meccanica del motore
+- **Esplorazione Verticale**: Scalate montagne del Purgatorio con platforming sfidante
+- **Boss Epici**: Scontri memorabili contro creature e giganti
+
+### Girati del Purgatorio
+1. **Giro dei Superbi** - Lotta con l'ego
+2. **Giro degli Invidiosi** - Confronto con l'invidia
+3. **Giro degli Iracondi** - Dominio della collera
+4. **Giro degli Accidiosi** - Superamento della pigrizia
+5. **Giro degli Avari** - Rinuncia all'avidità
+6. **Giro dei Golosi** - Temperanza e controllo
+7. **Giro dei Lussuriosi** - Trascendenza passionale
+
+## 🛠️ Tecnologie
+
+- **Engine**: Unreal Engine 5.x
+- **Linguaggio**: C++, Blueprint
+- **Grafica**: Real-time rendering, materiali fisici
+- **Audio**: Implementazione 3D audio spaziale
+- **Narrative**: Sistema di dialogo dinamico
+
+## 📁 Struttura del Progetto
