@@ -50,8 +50,31 @@ Accompagnato da **Virgilio** come mentore e guida spirituale, dovrai affrontare 
 - **Narrative**: Sistema di dialogo dinamico
 
 ## 📁 Struttura del Progetto
-DivinaCommedia/ ├── Source/ │ ├── Game/ │ │ ├── Characters/ # Dante, Virgilio, NPC │ │ ├── Enemies/ # Nemici e boss │ │ ├── Combat/ # Sistema di combattimento │ │ └── Abilities/ # Poteri e abilità │ ├── Levels/ # Girati del Purgatorio │ ├── UI/ # HUD e menu │ └── Narrative/ # Dialoghi e questline ├── Content/ │ ├── Characters/ # Modelli e animazioni │ ├── Enemies/ │ ├── Environments/ # Livelli e asset │ ├── Materials/ │ ├── Particles/ │ └── Audio/ ├── Docs/ │ ├── GameDesignDocument.md │ ├── TechnicalDesign.md │ └── NarrativeOutline.md └── README.md
 
+```
+DivinaCommedia/
+├── Source/
+│   ├── Game/
+│   │   ├── Characters/          # Dante, Virgilio, NPC
+│   │   ├── Enemies/             # Nemici e boss
+│   │   ├── Combat/              # Sistema di combattimento
+│   │   └── Abilities/           # Poteri e abilità
+│   ├── Levels/                  # Girati del Purgatorio
+│   ├── UI/                      # HUD e menu
+│   └── Narrative/               # Dialoghi e questline
+├── Content/
+│   ├── Characters/              # Modelli e animazioni
+│   ├── Enemies/
+│   ├── Environments/            # Livelli e asset
+│   ├── Materials/
+│   ├── Particles/
+│   └── Audio/
+├── Docs/
+│   ├── GameDesignDocument.md
+│   ├── TechnicalDesign.md
+│   └── NarrativeOutline.md
+└── README.md
+```
 
 ## 🚀 Come Iniziare
 
@@ -66,3 +89,75 @@ DivinaCommedia/ ├── Source/ │ ├── Game/ │ │ ├── Characte
    ```bash
    git clone https://github.com/legolasoo/DivinaCommedia.git
    cd DivinaCommedia
+   ```
+
+2. **Generare file progetto:**
+   ```bash
+   # Per Windows
+   .\GenerateProjectFiles.bat
+   
+   # Per macOS/Linux
+   ./GenerateProjectFiles.sh
+   ```
+
+3. **Aprire in Unreal Engine:**
+   - Apri `DivinaCommedia.uproject` con Unreal Engine 5.x
+   - Compila il progetto (Ctrl+Shift+B)
+
+4. **Eseguire il gioco:**
+   - Premi Play (Alt+P) nell'editor
+
+## 🎯 Roadmap
+
+- [ ] **Fase 1 - Pre-produzione**: Game Design, concettualizzazione, asset gathering
+- [ ] **Fase 2 - Prototipo**: Primo girone, combattimento base, meccaniche core
+- [ ] **Fase 3 - Sviluppo**: Implementazione di tutti e 7 i girati
+- [ ] **Fase 4 - Polish**: Ottimizzazione, effetti visivi, audio design
+- [ ] **Fase 5 - Beta**: Test e balancing finale
+
+## 🤝 Contribuire
+
+Cerchiamo talenti appassionati! Se vuoi contribuire:
+
+1. **Programmatori C++/Blueprint**: Gameplay, AI, sistemi
+2. **Level Designer**: Creazione girati del Purgatorio
+3. **Concept Artist**: Design nemici e ambiente
+4. **Sound Designer**: Musica e effetti sonori
+5. **Narratori**: Sviluppo dialoghi e questline
+
+### Come Contribuire
+
+1. Fork il repository
+2. Crea un branch per la tua feature (`git checkout -b feature/nuova-feature`)
+3. Commit i tuoi cambiamenti (`git commit -am 'Aggiungi nuova feature'`)
+4. Push al branch (`git push origin feature/nuova-feature`)
+5. Apri una Pull Request
+
+## 📖 Documentazione
+
+Vedi la cartella `/Docs` per:
+- **GameDesignDocument.md** - Visione completa del gioco
+- **TechnicalDesign.md** - Architettura tecnica
+- **NarrativeOutline.md** - Trama dettagliata
+
+## 📜 Licenza
+
+Questo progetto è distribuito sotto licenza [MIT](LICENSE).
+
+**Nota**: La Divina Commedia di Dante Alighieri è un'opera di dominio pubblico. Questo gioco è un'interpretazione creativa e indipendente.
+
+## 🔗 Risorse
+
+- [Unreal Engine Documentation](https://docs.unrealengine.com/)
+- [God of War - Design Analysis](https://www.youtube.com/watch?v=EchWnW86bH0)
+- [Dante Alighieri - La Divina Commedia](https://it.wikipedia.org/wiki/Divina_Commedia)
+
+## 👥 Team
+
+Creato da [legolasoo](https://github.com/legolasoo)
+
+---
+
+**"Per correr miglior acque alza le vele omai la navicella del mio ingegno..."** 🎮⚔️✨
+
+Unisciti al viaggio verso la redenzione!
