@@ -50,3 +50,19 @@ Accompagnato da **Virgilio** come mentore e guida spirituale, dovrai affrontare 
 - **Narrative**: Sistema di dialogo dinamico
 
 ## 📁 Struttura del Progetto
+DivinaCommedia/ ├── Source/ │ ├── Game/ │ │ ├── Characters/ # Dante, Virgilio, NPC │ │ ├── Enemies/ # Nemici e boss │ │ ├── Combat/ # Sistema di combattimento │ │ └── Abilities/ # Poteri e abilità │ ├── Levels/ # Girati del Purgatorio │ ├── UI/ # HUD e menu │ └── Narrative/ # Dialoghi e questline ├── Content/ │ ├── Characters/ # Modelli e animazioni │ ├── Enemies/ │ ├── Environments/ # Livelli e asset │ ├── Materials/ │ ├── Particles/ │ └── Audio/ ├── Docs/ │ ├── GameDesignDocument.md │ ├── TechnicalDesign.md │ └── NarrativeOutline.md └── README.md
+
+
+## 🚀 Come Iniziare
+
+### Prerequisiti
+- **Unreal Engine 5.x** installato
+- **Visual Studio** con supporto C++
+- **Git** per il versionamento
+
+### Setup Locale
+
+1. **Clonare il repository:**
+   ```bash
+   git clone https://github.com/legolasoo/DivinaCommedia.git
+   cd DivinaCommedia
